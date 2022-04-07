@@ -1,0 +1,18 @@
+.body--light {
+  --q-primary: #0000ff;
+  --q-secondary: #ffcccc;
+  --q-accent: #ff99ff;
+  --q-positive: #33ff33;
+  --q-negative: #ff0000;
+  --q-info: #00ffff;
+  --q-warning: #ffff00;
+}
+.body--dark {
+  --q-primary: #00005c;
+  --q-secondary: #a30000;
+  --q-accent: #5c005c;
+  --q-positive: #005c00;
+  --q-negative: #5c0000;
+  --q-info: #00a3a3;
+  --q-warning: #a3a300;
+}
