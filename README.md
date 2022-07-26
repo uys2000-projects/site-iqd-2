@@ -1,4 +1,15 @@
-# iqd
+# Istinye Quntu Dynamcis Club's website project
+
+```
+Site url : https://iqd-test.web.app/
+Admin Page url : https://iqd-test.web.app/admin.html
+```
+```
+user:admin@admin.com
+pass: 123456
+```
+
+
 
 ## Project setup
 ```
@@ -14,11 +25,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
