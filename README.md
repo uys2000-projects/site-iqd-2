@@ -1,11 +1,11 @@
-# Istinye Quntu Dynamcis Club's website project
+# Istinye Quntum Dynamcis Club's website project
 
 ```
-Site url : https://gmkwebapp.web.app/
-Admin Page url : https://gmkwebapp.web.app/admin.html
+Site url : https://iqd-test.web.app/
+Admin Page url : https://iqd-test.web.app/admin.html
 ```
 ```
-user: gmk@gmk.com
+user: admin@admin.com
 pass: 123456
 ```
 
