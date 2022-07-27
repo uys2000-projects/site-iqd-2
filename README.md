@@ -1,8 +1,8 @@
 # Istinye Quntu Dynamcis Club's website project
 
 ```
-Site url : [https://iqd-test.web.app/](https://gmkwebapp.web.app/)
-Admin Page url : [https://gmkwebapp.web.app/admin.html](https://gmkwebapp.web.app/admin.html)
+Site url : https://gmkwebapp.web.app/
+Admin Page url : https://gmkwebapp.web.app/admin.html
 ```
 ```
 user: gmk@gmk.com
